@@ -18,12 +18,13 @@ This application project is built using tech as below :
 - [VS CODE] Text editor
 
 ## Instalation
-- Download this repositories from github
+- Download this repositories from github.com
 - Find the clone URL
-- Open your Gitbash
+- Open Gitbash or Terminal
 - Type git clone, and then paste the URL you copied earlier. (git clone https://github.com/ipanirtiano/Github-repositories-explorer.git)
 - Press enter to create your local clone
 - Open folder project to text editor
 - Open terminal direct to folder project and type npm install to donwload all dependencies
 - After all download complete type npm run dev to run the project
+
 
